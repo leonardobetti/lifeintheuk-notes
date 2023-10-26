@@ -28,7 +28,8 @@ Mary Stuart's (Saoirse Ronan's) attempt to overthrow her cousin Elizabeth I, Que
 In early 18th-century England, the status quo at the court is upset when a new servant arrives and endears herself to a frail Queen Anne.
 
 **[Master and Commander: The Far Side of the World](https://www.imdb.com/title/tt0311113/?ref_=ttls_li_tt)** ⭐⭐⭐ <br> 
-During the Napoleonic Wars, a brash British captain pushes his ship and crew to their limits in pursuit of a formidable French war vessel around South America.
+During the Napoleonic Wars, a brash British captain pushes his ship and crew to their limits in pursuit of a formidable French war vessel around South America. <br>
+*Americans producers changed the theme, but the movie and the book itself is great. However, it doesn't provide much help with the context (Napoleonic Wars)...
 
 **[Robert the Bruce](https://www.imdb.com/title/tt8000908/?ref_=ttls_li_tt)** ⭐⭐ <br> 
 The story of the nobleman-turned-outlaw hero who was crowned king of Scots in the 14th century.
@@ -48,11 +49,11 @@ National identity, social class, inequality. David Olusoga shines a light on our
 
 **[The Tudors](https://www.imdb.com/title/tt0758790/)** ⭐ <br> 
 A dramatic series about the reign and marriages of King Henry VIII. <br>
-*Nowdays a bit old, helps to understand Henry VIII breakup with the church and wifes*
+*Nowdays a bit old, helps to understand Henry VIII breakup with the church and wifes...*
 
 
 **[The Last Kingdom](https://www.imdb.com/title/tt4179452/)** ⭐ <br> 
-As Alfred the Great defends his kingdom from Norse invaders, Uhtred--born a Saxon but raised by Vikings--seeks to claim his ancestral birthright.
+As Alfred the Great defends his kingdom from Norse invaders, Uhtred--born a Saxon but raised by Vikings--seeks to claim his ancestral birthright. <br>
 *Helps to understand about viking invasion and King Alfred, however the TV Shows seems pretty much a british Conan version so do not waste too much time with this...*
 
 <br><br><br>
