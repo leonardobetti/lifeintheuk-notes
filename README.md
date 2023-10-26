@@ -1,7 +1,6 @@
-# Life in the Uk - Cranhurst Notes
+# Life in the Uk - Cranhurst Notes 2022/23
 A repository to make it a helpful resource for those preparing for the Life in the UK exam. In this repository, I plan to include a curated list of TV shows, books, movies, and YouTube channels that have been particularly useful for individuals studying for the exam. 
-This collection aims to provide diverse and engaging sources of information to support those seeking to pass the Life in the UK test. These notes are published using the the MIT Apache License, which is is a permissive open-source license that grants users significant freedom to use, modify, and distribute the code or content included in this repository.  
-Your input and suggestions are very welcome, so please feel free to contribute.
+This collection aims to provide diverse and engaging sources of information to support those seeking to pass the Life in the UK test. These notes are published using the the MIT Apache License, which is is a permissive open-source license that grants users significant freedom to use, modify, and distribute the code or content included in this repository.  Your input and suggestions are very welcome, so please feel free to contribute.
 
 ---
 
@@ -55,4 +54,14 @@ A dramatic series about the reign and marriages of King Henry VIII. <br>
 **[The Last Kingdom](https://www.imdb.com/title/tt4179452/)** ⭐ <br> 
 As Alfred the Great defends his kingdom from Norse invaders, Uhtred--born a Saxon but raised by Vikings--seeks to claim his ancestral birthright.
 *Helps to understand about viking invasion and King Alfred, however the TV Shows seems pretty much a british Conan version so do not waste too much time with this...*
+
+<br><br><br>
+
+### Exam
+**[Life in the UK Oficial Test](https://www.officiallifeintheuk.co.uk/lz/myaccount/login)** ⭐⭐⭐ <br>
+This website is a valuable resource that provides access to the actual questions from the Life in the UK Exam. While it's a paid service, the investment is truly worth it. I highly recommend taking daily tests on this platform to track your performance. Once you consistently achieve a score with just one incorrect question, you'll know you're well-prepared and ready to book the official test.
+
+**[Questions from the the Life in the UK Official Handbook](https://www.youtube.com/watch?v=XXUBcTZWIzs&t=2s)** ⭐⭐ <br>
+Video includes 131 questions and answers on every topic of the the oficial Life in the UK Handbook, recommend to watch a few days before the exam.
+
 
