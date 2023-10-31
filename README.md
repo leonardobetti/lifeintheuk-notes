@@ -65,4 +65,6 @@ This website is a valuable resource that provides access to the actual questions
 **[Questions from the the Life in the UK Official Handbook](https://www.youtube.com/watch?v=XXUBcTZWIzs&t=2s)** ⭐⭐ <br>
 Video includes 131 questions and answers on every topic of the the oficial Life in the UK Handbook, recommend to watch a few days before the exam.
 
-
+<br><br><br>
+### Museum
+The **Museum of London**, located near Barbican. From the prehistoric era to the Roman conquest and through the Tudor period, the museum's extensive collection provides valuable insights into the nation's past. The visit is entirely free and serves as an excellent resource for brushing up on key historical details that could help pass the Life in the UK exam.
