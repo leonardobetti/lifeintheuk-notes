@@ -67,4 +67,4 @@ Video includes 131 questions and answers on every topic of the the oficial Life 
 
 <br><br><br>
 ### Museum
-The **Museum of London**, located near Barbican. From the prehistoric era to the Roman conquest and through the Tudor period, the museum's extensive collection provides valuable insights into the nation's past. The visit is entirely free and serves as an excellent resource for brushing up on key historical details that could help pass the Life in the UK exam.
+The **[Museum of London](https://www.museumoflondon.org.uk/museum-london)** located near Barbican. From the prehistoric era to the Roman conquest and through the Tudor period, the museum's extensive collection provides valuable insights into the nation's past. The visit is entirely free and serves as an excellent resource for brushing up on key historical details that could help pass the Life in the UK exam.
